@@ -2,7 +2,7 @@
 Entrevoisins
 
 Ce dépôt contient l'application android entrevoisins avec ses nouvelles fonctionnalités
-Download le fichier zip depuis le lien "https://github.com/Mika972/Projet3_Provisoire.git"
+Download le fichier zip depuis le lien "https://github.com/Mika972/PROJET3.git"
 Dézipper le fichier Entrevoisins
 Ouvrir Android studio, puis cliquer sur "Open an Existing Project", sélectionner le fichier Entrevoisins.
 
